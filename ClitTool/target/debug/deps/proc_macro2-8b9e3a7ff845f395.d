@@ -1,0 +1,11 @@
+C:\Users\geros\desktop\git\extracode\clitTool\target\debug\deps\proc_macro2-8b9e3a7ff845f395.rmeta: C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\lib.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\parse.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\detection.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\fallback.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\wrapper.rs
+
+C:\Users\geros\desktop\git\extracode\clitTool\target\debug\deps\libproc_macro2-8b9e3a7ff845f395.rlib: C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\lib.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\parse.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\detection.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\fallback.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\wrapper.rs
+
+C:\Users\geros\desktop\git\extracode\clitTool\target\debug\deps\proc_macro2-8b9e3a7ff845f395.d: C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\lib.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\parse.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\detection.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\fallback.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\wrapper.rs
+
+C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\lib.rs:
+C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\parse.rs:
+C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\detection.rs:
+C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\fallback.rs:
+C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\wrapper.rs:

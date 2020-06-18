@@ -1,0 +1,11 @@
+C:\Users\geros\desktop\git\extracode\clittool\target\debug\deps\proc_macro_error-316e223eabe011b7.rmeta: C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.2\src\lib.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.2\src\dummy.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.2\src\diagnostic.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.2\src\macros.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.2\src\imp\fallback.rs
+
+C:\Users\geros\desktop\git\extracode\clittool\target\debug\deps\libproc_macro_error-316e223eabe011b7.rlib: C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.2\src\lib.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.2\src\dummy.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.2\src\diagnostic.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.2\src\macros.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.2\src\imp\fallback.rs
+
+C:\Users\geros\desktop\git\extracode\clittool\target\debug\deps\proc_macro_error-316e223eabe011b7.d: C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.2\src\lib.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.2\src\dummy.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.2\src\diagnostic.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.2\src\macros.rs C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.2\src\imp\fallback.rs
+
+C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.2\src\lib.rs:
+C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.2\src\dummy.rs:
+C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.2\src\diagnostic.rs:
+C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.2\src\macros.rs:
+C:\Users\geros\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.2\src\imp\fallback.rs:
