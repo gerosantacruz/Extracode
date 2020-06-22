@@ -1,3 +1,4 @@
+#force brute way
 import math
 
 fact= math.factorial(11)
@@ -18,15 +19,15 @@ for i in trail:
     
 print(temp1)
 
+#mathematical way...
 def findTrailingZeros(n): 
-      
+    
     # Initialize result 
     count = 0
     i=5
     while (n/i>=1): 
         count += int(n/i) 
         i *= 5
-  
     return int(count) 
 
 print(findTrailingZeros(11))
