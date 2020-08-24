@@ -37,4 +37,4 @@ msg.attach(p)
 
 text = msg.as_string()
 
-server.sendmail(user, 'gerosanta@outlook.com')
+server.sendmail(user, '')
