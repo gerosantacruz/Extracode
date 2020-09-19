@@ -4,6 +4,7 @@ import "fmt"
 import "strings"
 
 
+
 func main() {
 	str1 := ""
 	str2 := "c"

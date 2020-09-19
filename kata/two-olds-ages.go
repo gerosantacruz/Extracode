@@ -5,8 +5,7 @@ import (
     "sort"
 )
 
-
-func main() {
+func twoAges() {
 	
 	s := []int{4, 2, 3, 1}
 	sort.Ints(s)
