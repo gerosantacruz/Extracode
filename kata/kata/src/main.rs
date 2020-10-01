@@ -19,7 +19,6 @@ fn create_phone_number(numbers: &[u8]) -> String {
             phone.push_str("-");
 
         }
-
         phone.push_str(&e.to_string());
         
     }
