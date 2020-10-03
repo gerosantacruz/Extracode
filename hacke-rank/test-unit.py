@@ -8,7 +8,7 @@ class TestSum(unittest.TestCase):
         """
         Test that return if diagonal diference
         """
-        data = [[1, 2, 3],[1,2,3]]
+        """ data = [[1, 2, 3],[1,2,3]]
         result = diagonalDifference(data)
         self.assertEqual(result, 0)
         
@@ -20,7 +20,7 @@ class TestSum(unittest.TestCase):
     def diagDif2(self):
         data = [[11, 2, 4],[4,5,6],[10,8,-12]]
         result = diagonalDifference(data)
-        self.assertEqual(result, 15)
+        self.assertEqual(result, 15) """
 
 
 if __name__ == '__main__':
